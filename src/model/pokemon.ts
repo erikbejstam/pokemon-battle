@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 export interface Pokemon {
     id: number;
     name: string;
-    weight: number;
+    weight: string;
 }
 
 const pokemonSchema = new mongoose.Schema<Pokemon>({
