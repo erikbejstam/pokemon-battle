@@ -9,7 +9,6 @@ const PORT = 3000;
 app.use("/pokemon", router);
 
 async function startServer() {
-    console.log("starting???/")
     await connectToDB();
     await seedData();
 
