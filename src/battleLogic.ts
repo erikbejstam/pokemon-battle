@@ -39,6 +39,5 @@ export async function simulateBattle(team1: Pokemon[], team2: Pokemon[]) {
         ? battleLog.push(`The battle has ended in a draw...`)
         : battleLog.push(`The winner is... ${winner}!!!`);
 
-    console.log("battleLogic log", battleLog);
     return battleLog;
 }
