@@ -1,0 +1,21 @@
+.app-container {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  gap: 1rem;
+}
+
+.simulate-button {
+  margin-top: 1rem;
+}
+
+.error-message {
+  color: red;
+}
+
+.pokemon-list {
+  columns: 2;
+}
