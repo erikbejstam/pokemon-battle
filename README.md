@@ -26,7 +26,7 @@ This project is built using the MERN stack. Express and Node for backend, React 
 
 ## Structure of projet
 
-I think the structure of the project is pretty self-explanatory. You can find the backend-related code in the 'backend/src' directory. There you'll find index, model, db files, controller, router, battleLogic and so on. The frontend was generated using Vite, so it has a pretty standard structure as well. The code for the frontend I gathered in just one file to keep it simple - App.tsx.
+I think the structure of the project is pretty self-explanatory. You can find the backend-related code in the 'backend/src' directory. There you'll find index, model, db files, controller, router, battleLogic and so on. The structure of the frontend was generated using Vite, so it has a pretty standard structure as well. The code for the frontend I gathered in just one file to keep it simple - App.tsx.
 
 ## What I would add given more time
 
